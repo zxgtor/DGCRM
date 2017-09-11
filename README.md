@@ -1,2 +1,3 @@
 # DGCRM
 DGCRM
+Database schema
